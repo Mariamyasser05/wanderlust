@@ -153,7 +153,7 @@ a.navbar-brand:hover{
 
 
 section#first {
-   background-image: url(images/HeroSection.jpeg);
+   background-image: url(HeroSection.jpeg);
     background-size: cover;
     inset: 0;
     min-height: 100vh;
@@ -541,7 +541,7 @@ div.list1  p {
 
 section.fifth{
     margin-top: 20px;
-    background-image: url(images/Newsletter.jpeg);
+    background-image: url(Newsletter.jpeg);
     background-position: center 30%;
     min-width: 100vw;
     height: 400px;
@@ -793,4 +793,5 @@ div.l4 button{
       top: -27px;
       left:260px;
       height:28px;
+
 }
